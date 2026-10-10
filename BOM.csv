@@ -1,13 +1,13 @@
-"Qty","Item","Footprint","cost (ea.)","link"
-"1","0.96 Oled","Imported Parts:Display_128x64_096_I2C","2.50","https://www.amazon.com/dp/B0GBVWBWCR"
-"1","MPU6050","Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical","2.29","https://www.amazon.com/dp/B0943SGP34"
-"1","220","Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal","0.05","https://www.amazon.com/EDGELEC-Resistor-Tolerance-Resistance-Optional/dp/B07HDGF48W/ref=sr_1_1_sspa?crid=2OSP2Y5934463&dib=eyJ2IjoiMSJ9.FUkFppqzw7JIhGxs2TeYl3wNAIpP7GVRF9FDVnCf5N1ZBrJqBJVp6VoxIhQiFvOzsz7Lm0ENVnxp52UJsTDWizh0SFAkimIzDMV1Ude9Mo83GIQMo20tmxT1mDk1nT8kwBLvtQgJPZ8L7F0ZzsRFo7v92qhw4w5XotR1fvW9mKt6spZXGanF1euwhggL7JJGF-UViV38am0hGJTq-SFnrNzWsFRDZsyKME5sn2mgiyk.RibU4JruzBfXPZKqZMHOIKk5oCA7kV57-eWY_87aRr4&dib_tag=se&keywords=220%2Bresistor&qid=1791673891&sprefix=220%2Bresistor%2Caps%2C192&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1"
-"1","10k","Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal","0.05","	https://www.amazon.com/dp/B0B4JFPHTW"
-"2","MX Switches","Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB","0.18","https://www.amazon.com//dp/B0FQP8VYX4"
-"1","EC11E Rotary encoders ","Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm","2.00","https://www.amazon.com/DIYhz-Rotary-Encoder-Digital-Potentiometer/dp/B07D3DF8TK/ref=sr_1_1_sspa?crid=1T35CN1GBXH8R&dib=eyJ2IjoiMSJ9.MzSzhhizA1QFdTEoHh_7tiXEOzTlkiCxmT7F2Wyu1i-K8j9FSjjE55yUTKIT2gRet0Wn1MMxK0xWPsvDv6kfrTi6W3enXtKzFBX1um6XeoICQsC-6NDLR5LP0FUJ1EXxK9yCB3NYh-p8B2rOGnOFfU_BKtnLNGeudM26YiFA0Wu7WXn9EILJ5kB9lN71Q3Kgz3VV4FWIV_tE8jc18Z68aLL55RNIZx8BMl0pnV_be3g.UOBDmf0qxoCiuzucq2H7SSA6JKg6Qfu01a91VXZjU-4&dib_tag=se&keywords=EC11E%2BRotary%2Bencoders&qid=1791674665&sprefix=ec11e%2Brotary%2Bencoders%2B%2Caps%2C213&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1"
-"1","XIAO-ESP32-C3-SMD","Imported Parts:XIAO-ESP32-C6-DIP","5.00","https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html"
-"1","DHT11","Sensor:Aosong_DHT11_5.5x12.0_P2.54mm","3.33","https://www.amazon.com/dp/B0BLG7R99R"
-"1","Buzzer","buzzfootprints:XTAL_PS1240P02BT_TDK","0.70","https://www.digikey.de/en/products/detail/tdk-corporation/PS1240P02BT/935924?"
-"1","PCB","","10.00","https://www.jlcpcb.com/"
-"","","","",""
-"1",Total (each Kit), "" ,"26,1"
+Qty,Item,Footprint,cost (ea.),link
+1,0.96 Oled,Imported Parts:Display_128x64_096_I2C,2.50,https://www.amazon.com/dp/B0GBVWBWCR
+1,MPU6050,Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical,2.29,https://www.amazon.com/dp/B0943SGP34
+1,220,Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal,0.05,https://www.amazon.com/EDGELEC-Resistor-Tolerance-Resistance-Optional/dp/B07HDGF48W/ref=sr_1_1_sspa?crid=2OSP2Y5934463&dib=eyJ2IjoiMSJ9.FUkFppqzw7JIhGxs2TeYl3wNAIpP7GVRF9FDVnCf5N1ZBrJqBJVp6VoxIhQiFvOzsz7Lm0ENVnxp52UJsTDWizh0SFAkimIzDMV1Ude9Mo83GIQMo20tmxT1mDk1nT8kwBLvtQgJPZ8L7F0ZzsRFo7v92qhw4w5XotR1fvW9mKt6spZXGanF1euwhggL7JJGF-UViV38am0hGJTq-SFnrNzWsFRDZsyKME5sn2mgiyk.RibU4JruzBfXPZKqZMHOIKk5oCA7kV57-eWY_87aRr4&dib_tag=se&keywords=220%2Bresistor&qid=1791673891&sprefix=220%2Bresistor%2Caps%2C192&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1
+1,10k,Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal,0.05,https://www.amazon.com/dp/B0B4JFPHTW
+2,MX Switches,Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB,0.18,https://www.amazon.com//dp/B0FQP8VYX4
+1,EC11E Rotary encoders,Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm,2.00,https://www.amazon.com/DIYhz-Rotary-Encoder-Digital-Potentiometer/dp/B07D3DF8TK/ref=sr_1_1_sspa?crid=1T35CN1GBX8R&dib=eyJ2IjoiMSJ9.MzSzhhizA1QFdTEoHh_7tiXEOzTlkiCxmT7F2Wyu1i-K8j9FSjjE55yUTKIT2gRet0Wn1MMxK0xWPsvDv6kfrTi6W3enXtKzFBX1um6XeoICQsC-6NDLR5LP0FUJ1EXxK9yCB3NYh-p8B2rOGnOFfU_BKtnLNGeudM26YiFA0Wu7WXn9EILJ5kB9lN71Q3Kgz3VV4FWIV_tE8jc18Z68aLL55RNIZx8BMl0pnV_be3g.UOBDmf0qxoCiuzucq2H7SSA6JKg6Qfu01a91VXZjU-4&dib_tag=se&keywords=EC11E%2BRotary%2Bencoders&qid=1791674665&sprefix=ec11e%2Brotary%2Bencoders%2B%2Caps%2C213&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1
+1,XIAO-ESP32-C3-SMD,Imported Parts:XIAO-ESP32-C6-DIP,5.00,https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html
+1,DHT11,Sensor:Aosong_DHT11_5.5x12.0_P2.54mm,3.33,https://www.amazon.com/dp/B0BLG7R99R
+1,Buzzer,buzzfootprints:XTAL_PS1240P02BT_TDK,0.70,https://www.digikey.de/en/products/detail/tdk-corporation/PS1240P02BT/935924?
+1,PCB,,10.00,https://www.jlcpcb.com/
+,,,,
+1,Total (each Kit),,26,1
