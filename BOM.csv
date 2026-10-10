@@ -10,4 +10,4 @@ Qty,Item,Footprint,cost (ea.),link
 1,Buzzer,buzzfootprints:XTAL_PS1240P02BT_TDK,0.70,https://www.digikey.de/en/products/detail/tdk-corporation/PS1240P02BT/935924?
 1,PCB,,10.00,https://www.jlcpcb.com/
 ,,,,
-1,Total (each Kit),,26,1
+1,Total (each Kit),,26,
