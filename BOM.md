@@ -18,7 +18,7 @@
 | [Buttons](https://www.amazon.de/St%C3%BCck-Mechanische-Tastaturschalter-Klicker-Tastatur/dp/B0H8N3S75T/ref=sr_1_6?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=8TUUD0I8TWXP&dib=eyJ2IjoiMSJ9.b2VIcBQ07tvzXuenwdOjLOn-_2IjVB4VxsZA2bjx_KAvlruIpiW5iCRpg_4h45zfxDC1BMJ-Q5cB0k8uNj6fVCau52DVM9OQ_tXQnIHFfxXq-241OR5mE5AwejnOpCRBILBi-Mh7tyepPQcFa-LVm78Wa3VQuihOnI-VW3c8IlghHWGVWtrm_wSRgpyDcK5Ip1Tsrx7EP-NeR391rPNEX8IhxenNFHwZMe89FGcdyLY.YJ6R6YxvC7jdn_Bis63jW08qiwBDRSu011GBs7ha9A4&dib_tag=se&keywords=tastatur+klicker&qid=1791715308&sprefix=tastaturklicke%2Caps%2C137&sr=8-6) | Switch for the PCB | 1 | $5.03 | $5.03 | [Amazon](https://www.amazon.de/St%C3%BCck-Mechanische-Tastaturschalter-Klicker-Tastatur/dp/B0H8N3S75T/ref=sr_1_6?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=8TUUD0I8TWXP&dib=eyJ2IjoiMSJ9.b2VIcBQ07tvzXuenwdOjLOn-_2IjVB4VxsZA2bjx_KAvlruIpiW5iCRpg_4h45zfxDC1BMJ-Q5cB0k8uNj6fVCau52DVM9OQ_tXQnIHFfxXq-241OR5mE5AwejnOpCRBILBi-Mh7tyepPQcFa-LVm78Wa3VQuihOnI-VW3c8IlghHWGVWtrm_wSRgpyDcK5Ip1Tsrx7EP-NeR391rPNEX8IhxenNFHwZMe89FGcdyLY.YJ6R6YxvC7jdn_Bis63jW08qiwBDRSu011GBs7ha9A4&dib_tag=se&keywords=tastatur+klicker&qid=1791715308&sprefix=tastaturklicke%2Caps%2C137&sr=8-6) |
 | [Seeed Studio XIAO ESP32-C3](https://www.seeedstudio.com/checkout.html) | the computer | 1 | $4.90 | $4.90 | [SeeedStudio](https://www.seeedstudio.com/checkout.html) |
 | **Parts subtotal** | — | — | — | **$26.62** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$26.62** | — |
+| **Tax & shipping** | — | — | — | **$5.58** | — |
+| **Total** | — | — | — | **$32.20** | — |
 
-$3.38 left of the tier's funding.
+**$2.20 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
