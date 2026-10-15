@@ -1,6 +1,6 @@
 Qty,Item,Footprint,cost (ea.),link
-1,0.96 Oled,Imported Parts:Display_128x64_096_I2C,2.50,https://www.amazon.com/dp/B0GBVWBWCR
-1,MPU6050,Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical,2.29,https://www.amazon.com/dp/B0943SGP34
+1,0.96 Oled,Imported Parts:Display_128x64_096_I2C,2.99,https://makeroo.de/products/096-zoll-oled-display-modul-ssd1306-i2c-spi-128x64-fuer-arduino-weiss
+1,MPU6050,Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical,3.29,https://www.roboter-bausatz.de/p/3-achsen-beschleunigungs-lagesensor-gy-521-mpu-6050
 1,220,Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal,0.18,https://www.reichelt.de/de/de/shop/produkt/widerstand_metalloxyd_220_ohm_0207_1_0_w_5_-1800
 1,10k,Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal,0.12,https://www.reichelt.de/de/de/shop/produkt/widerstand_kohleschicht_10_kohm_0207_250_mw_5_-1338
 2,MX Switches,Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB,0.19,https://www.onbuy.com/de/p/tastaturschalter-50-stuck-3-pin-blaue-tastaturklicker-ersatz-staubdichte-mechanische-tastaturschalter~p271163583/
