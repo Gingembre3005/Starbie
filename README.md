@@ -51,7 +51,7 @@ If Arduino asks to install dependencies, choose Install All.
 ## Bill of Materials (BOM)
 
 | Qty | Item  | Cost (ea.) (€) | Link |
-|---:|---|---|---:|---|
+|---:|---|---:|---|
 | 1 | 0.96" OLED |  2.99 | [Makeroo](https://makeroo.de/products/096-zoll-oled-display-modul-ssd1306-i2c-spi-128x64-fuer-arduino-weiss) |
 | 1 | MPU6050 | 3.29 | [Roboter-Bausatz](https://www.roboter-bausatz.de/p/3-achsen-beschleunigungs-lagesensor-gy-521-mpu-6050) |
 | 1 | 220 Ω Resistor |  0.18 | [Reichelt](https://www.reichelt.de/de/de/shop/produkt/widerstand_metalloxyd_220_ohm_0207_1_0_w_5_-1800) |
