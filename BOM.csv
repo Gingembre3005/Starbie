@@ -1,13 +1,12 @@
-Qty,Item,Footprint,cost (ea.),link
-1,0.96 Oled,Imported Parts:Display_128x64_096_I2C,2.99,https://makeroo.de/products/096-zoll-oled-display-modul-ssd1306-i2c-spi-128x64-fuer-arduino-weiss
-1,MPU6050,Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical,3.29,https://www.roboter-bausatz.de/p/3-achsen-beschleunigungs-lagesensor-gy-521-mpu-6050
-1,220,Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal,0.18,https://www.reichelt.de/de/de/shop/produkt/widerstand_metalloxyd_220_ohm_0207_1_0_w_5_-1800
-1,10k,Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal,0.12,https://www.reichelt.de/de/de/shop/produkt/widerstand_kohleschicht_10_kohm_0207_250_mw_5_-1338
-2,MX Switches,Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB,0.19,https://www.onbuy.com/de/p/tastaturschalter-50-stuck-3-pin-blaue-tastaturklicker-ersatz-staubdichte-mechanische-tastaturschalter~p271163583/
-1,EC11E Rotary encoders,Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm,2.00,https://www.manomano.de/p/drehgeber-10-stuck-ec11-drehgeber-codierschalter-digitalpotentiometer-mit-schalter-5-polig-weit-verbreitet-in-der-automobilelektronik-86491443
-1,XIAO-ESP32-C3-SMD,Imported Parts:XIAO-ESP32-C6-DIP,5.00,https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html
-1,DHT11,Sensor:Aosong_DHT11_5.5x12.0_P2.54mm,1.79,https://www.roboter-bausatz.de/p/dht11-modul-digitaler-feuchtigkeits-und-temperatursensor
-1,Buzzer,buzzfootprints:XTAL_PS1240P02BT_TDK,0.70,https://www.digikey.de/en/products/detail/tdk-corporation/PS1240P02BT/935924?
-1,PCB,,10.00,https://www.jlcpcb.com/
-,,,,
-1,Total (each Kit),,26.47,
+Qty,Item,Cost (ea.) (€),Link
+1,"0.96"" OLED",2.49,https://de.aliexpress.com/item/1005007475013244.html
+1,MPU6050,2.15,https://de.aliexpress.com/item/1005009925487659.html
+1,220 Ω Resistor,0.18,https://de.aliexpress.com/item/1005011886443911.html
+1,10 kΩ Resistor,0.12,https://de.aliexpress.com/item/1005011886443911.html
+2,MX Switches,0.59,https://de.aliexpress.com/item/1005008089864080.html
+1,EC11E Rotary Encoder,1.59,https://de.aliexpress.com/item/1005007943273440.html
+1,XIAO ESP32-C3,6.79,https://de.aliexpress.com/item/1005008791664713.html
+1,DHT11,0.81,https://de.aliexpress.com/item/1005012263106656.html
+1,Buzzer,0.18,https://de.aliexpress.com/item/1005007274812383.html
+1,PCB,10.00,https://www.jlcpcb.com/
+,"Total (per kit)",24.90,
