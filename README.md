@@ -52,14 +52,14 @@ If Arduino asks to install dependencies, choose Install All.
 
 | Qty | Item | Footprint | Cost (ea.) (€) | Link |
 |---:|---|---|---:|---|
-| 1 | 0.96" OLED | `Imported Parts:Display_128x64_096_I2C` | 2.99 | [Makeroo](https://makeroo.de/products/096-zoll-oled-display-modul-ssd1306-i2c-spi-128x64-fuer-arduino-weiss) |
-| 1 | MPU6050 | `Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical` | 3.29 | [Roboter-Bausatz](https://www.roboter-bausatz.de/p/3-achsen-beschleunigungs-lagesensor-gy-521-mpu-6050) |
-| 1 | 220 Ω Resistor | `Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal` | 0.18 | [Reichelt](https://www.reichelt.de/de/de/shop/produkt/widerstand_metalloxyd_220_ohm_0207_1_0_w_5_-1800) |
-| 1 | 10 kΩ Resistor | `Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal` | 0.12 | [Reichelt](https://www.reichelt.de/de/de/shop/produkt/widerstand_kohleschicht_10_kohm_0207_250_mw_5_-1338) |
-| 2 | MX Switches | `Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB` | 0.19 | [OnBuy](https://www.onbuy.com/de/p/tastaturschalter-50-stuck-3-pin-blaue-tastaturklicker-ersatz-staubdichte-mechanische-tastaturschalter~p271163583/) |
-| 1 | EC11E Rotary Encoder | `Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm` | 2.00 | [ManoMano](https://www.manomano.de/p/drehgeber-10-stuck-ec11-drehgeber-codierschalter-digitalpotentiometer-mit-schalter-5-polig-weit-verbreitet-in-der-automobilelektronik-86491443) |
-| 1 | XIAO ESP32-C3 | `Imported Parts:XIAO-ESP32-C6-DIP` | 5.00 | [Seeed Studio](https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html) |
-| 1 | DHT11 | `Sensor:Aosong_DHT11_5.5x12.0_P2.54mm` | 1.79 | [Roboter-Bausatz](https://www.roboter-bausatz.de/p/dht11-modul-digitaler-feuchtigkeits-und-temperatursensor) |
-| 1 | Buzzer | `buzzfootprints:XTAL_PS1240P02BT_TDK` | 0.70 | [DigiKey](https://www.digikey.de/en/products/detail/tdk-corporation/PS1240P02BT/935924) |
-| 1 | PCB | — | 10.00 | [JLCPCB](https://www.jlcpcb.com/) |
+| 1 | 0.96" OLED |  2.99 | [Makeroo](https://makeroo.de/products/096-zoll-oled-display-modul-ssd1306-i2c-spi-128x64-fuer-arduino-weiss) |
+| 1 | MPU6050 | 3.29 | [Roboter-Bausatz](https://www.roboter-bausatz.de/p/3-achsen-beschleunigungs-lagesensor-gy-521-mpu-6050) |
+| 1 | 220 Ω Resistor |  0.18 | [Reichelt](https://www.reichelt.de/de/de/shop/produkt/widerstand_metalloxyd_220_ohm_0207_1_0_w_5_-1800) |
+| 1 | 10 kΩ Resistor |  0.12 | [Reichelt](https://www.reichelt.de/de/de/shop/produkt/widerstand_kohleschicht_10_kohm_0207_250_mw_5_-1338) |
+| 2 | MX Switches |  0.19 | [OnBuy](https://www.onbuy.com/de/p/tastaturschalter-50-stuck-3-pin-blaue-tastaturklicker-ersatz-staubdichte-mechanische-tastaturschalter~p271163583/) |
+| 1 | EC11E Rotary Encoder | 2.00 | [ManoMano](https://www.manomano.de/p/drehgeber-10-stuck-ec11-drehgeber-codierschalter-digitalpotentiometer-mit-schalter-5-polig-weit-verbreitet-in-der-automobilelektronik-86491443) |
+| 1 | XIAO ESP32-C3 | 5.00 | [Seeed Studio](https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html) |
+| 1 | DHT11 | 1.79 | [Roboter-Bausatz](https://www.roboter-bausatz.de/p/dht11-modul-digitaler-feuchtigkeits-und-temperatursensor) |
+| 1 | Buzzer  | 0.70 | [DigiKey](https://www.digikey.de/en/products/detail/tdk-corporation/PS1240P02BT/935924) |
+| 1 | PCB  | 10.00 | [JLCPCB](https://www.jlcpcb.com/) |
 | | **Total (per kit)** | | **26.47** | |
