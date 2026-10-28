@@ -1,12 +1,5 @@
-Qty,Item,Cost (ea.) (€),Link
-1,"0.96"" OLED",2.49,https://de.aliexpress.com/item/1005007475013244.html
-1,MPU6050,2.15,https://de.aliexpress.com/item/1005009925487659.html
-1,220 Ω Resistor,0.18,https://de.aliexpress.com/item/1005011886443911.html
-1,10 kΩ Resistor,0.12,https://de.aliexpress.com/item/1005011886443911.html
-2,MX Switches,0.59,https://de.aliexpress.com/item/1005008089864080.html
-1,EC11E Rotary Encoder,1.59,https://de.aliexpress.com/item/1005007943273440.html
-1,XIAO ESP32-C3,6.79,https://de.aliexpress.com/item/1005008791664713.html
-1,DHT11,0.81,https://de.aliexpress.com/item/1005012263106656.html
-1,Buzzer,0.18,https://de.aliexpress.com/item/1005007274812383.html
-1,PCB,10.00,https://www.jlcpcb.com/
-,"Total (per kit)",24.90,
+Item,Qty,Supplier,Cost/item,Total Cost,link
+0.96 Oled,1,Makeroo,$3.30,$3.30,https://makeroo.de/products/096-zoll-oled-display-modul-ssd1306-i2c-spi-128x64-fuer-arduino-weiss
+PCB,1,JLCPCB,$9.70,$9.70,https://cart.jlcpcb.com/
+Seeed Studio XIAO ESP32-C3,1,SeeedStudio,$4.90,$4.90,https://www.seeedstudio.com/checkout.html
+Estimated total shipping,1,,,$13.30,
